@@ -1,0 +1,20 @@
+{
+  "name": "Clase05_Servidor_en_NODE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cagramajo/Clase05_Servidor_en_NODE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cagramajo/Clase05_Servidor_en_NODE/issues"
+  },
+  "homepage": "https://github.com/cagramajo/Clase05_Servidor_en_NODE#readme"
+}
